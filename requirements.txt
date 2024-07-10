@@ -25,4 +25,4 @@ six==1.16.0
 statsmodels==0.13.5
 tzdata==2023.3
 Werkzeug==3.0.3
-zipp==3.15.0
+zipp==3.19.1
